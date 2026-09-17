@@ -240,4 +240,4 @@ This repository serves as the official landing page for NI Multisim. The softwar
 **Get the most recent version of NI Multisim today!**
 
 ---
-**Last updated:** 2026-09-17 11:02:24 UTC
+**Last updated:** 2026-09-17 16:18:56 UTC
